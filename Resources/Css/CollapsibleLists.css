@@ -1,0 +1,23 @@
+ul {
+    list-style-position: outside;
+    list-style: none;
+	float : center;
+
+}
+
+.collapsibleList  li{
+	list-style:none;
+	list-style-position: outside;
+	cursor:auto;
+
+}
+
+li.collapsibleListOpen{
+	
+	cursor:pointer;
+}
+
+li.collapsibleListClosed{
+	
+	cursor:pointer;
+}
