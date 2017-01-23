@@ -1,0 +1,172 @@
+<html>
+    <head>
+        <title> Links 2.0 </title>
+        
+        <script type="text/javascript" src="Resources\Javascript\CollapsibleLists.js"></script>
+        <script type="text/javascript" src="Resources\Javascript\runOnLoad.js"></script>
+        <link rel="stylesheet" type="text/css" href="Resources\Css\CollapsibleLists.css"></link>
+        
+        <script type="text/javascript" >
+            runOnLoad(function(){ CollapsibleLists.apply();});
+        </script>
+
+    </head>
+
+    <body>
+        <ul class="collapsibleList">
+        
+            <li>
+            <!-- Eternus -->
+                <strong> Eternus </strong>.
+                
+                <ul>
+                    <li>
+                        <a href="http://linkup.eternussolutions.com" target="_blank" > Link UP </a>
+                    </li>
+                    <li>
+                        <a href="http://mail.eternussolutions.com/" target="_blank" > Eternus Mail </a>
+                    </li>
+                    <li>
+                        <a href="http://etrack.eternussolutions.com:999/etrack/login" target="_blank" > E-Track </a>
+                    </li>
+                </ul>
+                
+            </li>
+            <hr >
+            <li>
+                <!-- Salesforce Links -->
+                <strong> Salesforce Links </strong>
+                
+                <ul>
+                    <li>
+                        <a href="https://ap1.salesforce.com/apexpages/apexcomponents.apexp" target="_blank" > Apex tags </a>
+                    </li>
+                    <li>
+                        <a href="https://www.salesforce.com/us/developer/docs/api/Content/data_model.htm" target="_blank" > Schema </a>
+                    </li>
+                    <li>
+                        <a href="https://www.salesforce.com/us/developer/docs/apexcode/Content/apex_gov_limits.htm" target="_blank" > Governor Limits </a>
+                    </li>
+                    <li>
+                        <a href="https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_vf.htm" target="_blank" > VF Limits </a>
+                    </li>
+                    <li>
+                        <a href="http://www.sfdc99.com/2014/03/01/sending-emails-using-apex/" target="_blank" > Mails </a>
+                    </li>
+                    <li>
+                        <a href="https://developer.salesforce.com/page/Creating_REST_APIs_using_Apex_REST" target="_blank" > REST Invocations </a>
+                    </li>
+                    <li>
+                        <a href="https://www.salesforce.com/us/developer/docs/apexcode/index_Left.htm#CSHID=apex_methods_system_test.htm|StartTopic=Content%2Fapex_methods_system_test.htm|SkinName=webhelp" target="_blank" > SalesForce DOCS </a>
+                    </li>
+                    <li>
+                        <a href="https://www.salesforce.com/developer/docs/api/Content/sforce_api_objects_list.htm" target="_blank" > Salesforce Standard Objects </a>
+                    </li>
+                    <li>
+                        <a href="https://developer.salesforce.com/page/Cheat_Sheets" target="_blank" > Cheat Sheet </a>
+                    </li>
+                    <li>
+                        <a href="https://login.salesforce.com" target="_blank" > SalesForce Login </a>
+                    </li>
+                    <li>
+                        <a href="https://www.dropbox.com/sh/vu3f496ushgsf5u/IvAOSx4V6p" target="_blank" > SFDC-Stuff </a>
+                    </li>
+                    <li>
+                        <a href="http://srinivas4sfdc.blogspot.in/2013_12_01_archive.html" target="_blank" > Object Key Prefix </a>
+                    </li>
+                    <li>
+                        <a href="https://www.salesforce.com/us/developer/docs/apexcode/Content/apex_classes_annotation.htm" target="_blank" > Apex Annotations </a>
+                    </li>
+					<li>
+						<a href="https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_triggers_order_of_execution.htm" target="_blank">Order of execution </a>
+					</li>
+					<li>
+						<a href="https://developer.salesforce.com/page/Tools" target="_blank">Salesforce Tools </a>
+					</li>
+                </ul>
+                
+            </li>
+            <hr >
+            <li>
+            <!-- Javascript -->
+                <strong> Javascript </strong>
+                
+                <ul>
+                    <li>
+                        <a href="http://overapi.com/javascript" target="_blank" > Javascript Cheat_Sheets </a>
+                    </li>
+					<li>
+                        <a href=" http://oscarotero.com/jquery/" target="_blank" > Jquery Cheat_Sheets </a>
+                    </li>
+                    <li>
+                        <a href="http://jsfiddle.net/" target="_blank" > Javascript Online Editor </a>
+                    </li>
+                    <li>
+                        <a href="http://regexlib.com/Search.aspx?k=password&AspxAutoDetectCookieSupport=1" target="_blank" > regexlib </a>
+                    </li>
+                    <li>
+                        <a href="https://regex101.com/" target="_blank" > RegEX101 </a>
+                    </li>
+                </ul>
+                
+            </li>
+            <hr >
+            <li>
+            <!-- Codes -->
+                <strong> Codes </strong>
+                
+                <ul>
+                    <li>
+                        <a href="https://www.codeeval.com/" target="_blank" > CodeEval </a>
+                    </li>
+                    <li>
+                        <a href="http://www.kaggle.com/competitions" target="_blank" > Kaggle </a>
+                    </li>
+                    <li>
+                        <a href="https://www.coursera.org/courses" target="_blank" > CourseEra </a>
+                    </li>
+                    <li>
+                        <a href="https://codefights.com/" target="_blank" > CodeFight </a>
+                    </li>
+                    <li>
+                        <a href="https://iwritecrappycode.wordpress.com/2013/08/28/visualforce-force-download-of-pdf-or-other-content/" target="_blank" > iWriteCrappyCode </a>
+                    </li>
+                </ul>
+                
+            </li>
+            <hr >
+            <li>
+            <!-- 401-Certification -->
+                <strong> 401-Certification </strong>.
+                
+                <ul>
+                    <li>
+                        <a href="http://quizlet.com/47646837/flashcards" target="_blank" > Quizlet </a>
+                    </li>
+                    <li>
+                        <a href="http://salesforce-401-dumps.blogspot.in/2012_09_01_archive.html" target="_blank" > 401-dumps </a>
+                    </li>
+                </ul>
+                
+            </li>
+            <hr >
+            <li>
+            <!-- Platform Dev I -->
+                <strong> Platform Dev I </strong>.
+                
+                <ul>
+                    <li>
+                        <a href="http://www.proprofs.com/quiz-school/story.php?title=mtm3mza4ng2tli" target="_blank" > Proprofs Quizlet </a>
+                    </li>
+                    <Li>
+                        <a href = "http://flexandsalesforce.blogspot.in/2015/08/salesforce-certified-platform-developer_19.html" target = "_blank"> Salesforce on Demand </a>
+                    </li>
+                </ul>
+                
+            </li>
+            <hr >
+            
+        </ul>
+        <!-- D64DA3321E299AA0EDBE1A01A9 -->
+    </body>
+</html>
